@@ -14,5 +14,6 @@
 	"author": "Avi Rao",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"version": "1.2.0",
 	"license": "MIT"
 }
